@@ -4,20 +4,20 @@
         "symbol": "IMX/USDT",
         "price": 0.465,
         "amount": 0.01,
-        "status": "NEW"
+        "status": "filled"
     },
     {
         "id": "IMX-USDT-446327-1745170081775",
         "symbol": "IMX/USDT",
         "price": 0.45,
         "amount": 0.01,
-        "status": "NEW"
+        "status": "filled"
     },
     {
         "id": "IMX-USDT-446341-1745170086290",
         "symbol": "IMX/USDT",
         "price": 0.45,
         "amount": 0.01,
-        "status": "NEW"
+        "status": "filled"
     }
 ]
